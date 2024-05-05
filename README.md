@@ -23,7 +23,8 @@ O analisador sintático desenvolvido é capaz de identificar erros sintáticos n
 * 'entrada.txt': Arquivo de exemplo contendo um código fonte em LA para ser analisado.
 * 'saida.txt': Arquivo de saída onde serão registradas as mensagens de erro sintático.
 * 'tes.py': Arquivos para imprimir todos as saídas dos casos-testes.
-* 'casos_testes_t2': Pasta com os arquivos de entrada e saída dos casos-testes.
+* 'casos_testes_t2': Pasta com os arquivos de entrada casos-testes.
+* 'saida': Pasta contendo a saida dos casos-testes.
 
 ## Como Executar
 
