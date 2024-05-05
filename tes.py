@@ -6,8 +6,8 @@ def run_trabalho(input_file, output_file):
     with open(output_file, 'w') as f:
         subprocess.run(["python3", "main.py", input_file, output_file])
 def main():
-    input_folder = "/Users/alexandrafloriano/Downloads/2.casos_teste_t2/entrada"
-    output_folder = "/Users/alexandrafloriano/Trab2/saida"
+    input_folder = "/caminho/para/pasta_de_entrada"
+    output_folder = "/caminho/para/pasta_de_saida"
 
     # Certifique-se de que a pasta de saída existe, se não, crie-a
     if not os.path.exists(output_folder):
