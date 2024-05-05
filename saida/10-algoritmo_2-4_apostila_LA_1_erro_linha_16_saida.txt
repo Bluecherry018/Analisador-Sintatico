@@ -1,0 +1,2 @@
+Linha 16: cadeia literal não fechada
+Fim da compilacao
